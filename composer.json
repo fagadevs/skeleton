@@ -1,0 +1,12 @@
+{
+    "name": "fagadevs/skeleton",
+    "description": "Basic project using ports and adapters",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Fagadevs\\Skeleton\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
